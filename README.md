@@ -1,4 +1,4 @@
-#CMU - Robot Autonomy (16-662) Spting 2020 Simulation Project
+# CMU - Robot Autonomy (16-662) Spting 2020 Simulation Project
 
 ## Installation
 
