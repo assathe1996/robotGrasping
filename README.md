@@ -1,4 +1,4 @@
-#CMU - Robot Autonomy (16-662) Spting 2020 Simulation Project
+# CMU - Robot Autonomy (16-662) Spting 2020 Simulation Project
 
 ## Problem - EmptyContainer
 The goal of this task is bin picking, which is what many robotic startups are working on such ascovariant.ai, https://www.iamrobotics.com/, and https://www.berkshiregrey.com/to name a few. You will need to move objects to containers on the side. Then once the task has been completed, you will need to put the objects back into the original container. Some additional options include adding more random objects every so often.
